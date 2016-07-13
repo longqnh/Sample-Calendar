@@ -1,0 +1,9 @@
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\bin\Debug\SampleCalendar.exe.config
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\bin\Debug\SampleCalendar.exe
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\bin\Debug\SampleCalendar.pdb
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\obj\Debug\SampleCalendar.csprojResolveAssemblyReference.cache
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\obj\Debug\SampleCalendar.Form1.resources
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\obj\Debug\SampleCalendar.Properties.Resources.resources
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\obj\Debug\SampleCalendar.csproj.GenerateResource.Cache
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\obj\Debug\SampleCalendar.exe
+c:\users\tl\documents\visual studio 2013\Projects\SampleCalendar\SampleCalendar\obj\Debug\SampleCalendar.pdb
